@@ -1,0 +1,17 @@
+# Vim
+alias vim='nvim
+
+# Git
+alias g='git'
+alias gs='git status'
+alias gc='git commit'
+alias gcm='git commit -m'
+alias gl='git log --all --decorate --oneline --graph'
+alias gp='git push'
+alias gpl='git pull'
+alias gd='git diff --color-words --color'
+alias ga='git add'
+
+
+# Other
+alias grep='grep --color=auto'
