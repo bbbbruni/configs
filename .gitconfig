@@ -1,0 +1,9 @@
+[user]
+        name = Bruno Almeida
+        email = 'you email'
+[push]
+        default = current
+# [branch]
+#       autosetupmerge = always
+[alias]
+        lg =   log --color --graph --branches --all --decorate --oneline
